@@ -1,0 +1,2 @@
+A fun game, similar to little alchemy, where you can combine elements to create new ones. There are a few pre-made elements, but if you combine two elements that don't exist, you can create a new one! 
+The color of the element's name is based on the element's parents.
