@@ -1,6 +1,7 @@
 #include <iostream>
+#include <string>
 #include <vector>
-#include "mine.h"
+#include "TidyText.h"
 
 struct element {
     std::string name, parent1, parent2, family;
